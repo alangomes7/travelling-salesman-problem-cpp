@@ -1,0 +1,22 @@
+# ninja log v5
+6	608	6883386564838792	src/CMakeFiles/travelling-salesman_problem-cpp_run.dir/io/Writer.cpp.obj	66c85a856f2205e3
+2	494	6883442187616202	build.ninja	7a52a0221aaf9309
+1	487	6883387479866130	src/CMakeFiles/travelling-salesman_problem-cpp_lib.dir/io/Writer.cpp.obj	ad5681c1f8cb106f
+9	7571	6883387550602358	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	d69b830fbf7f3c79
+8	1143	6883397194971430	test/CMakeFiles/travelling-salesman_problem-cpp_test.dir/main.cpp.obj	3e42e77d1d755d1f
+13	2732	6883415500755655	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	e569f99d76882bf6
+5	393	6883401234566209	src/CMakeFiles/travelling-salesman-problem-cpp_lib.dir/io/Writer.cpp.obj	11f0b6a7180e8e75
+8	910	6883422574621363	test/CMakeFiles/travelling-salesman-problem-cpp_test.dir/main.cpp.obj	f1a57c6a2288f4c2
+6	478	6883415478264413	src/CMakeFiles/travelling-salesman-problem-cpp_run.dir/io/Writer.cpp.obj	86971c6c42df576c
+24	1255	6883415486038861	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	49e187ac3233a679
+17	1520	6883415488677797	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	952e66f5ee3f52b0
+5	448	6883441000377204	src/CMakeFiles/travelling-salesman_run.dir/io/Writer.cpp.obj	e7f1dd71f021c41e
+11	451	6883441000397203	src/CMakeFiles/travelling-salesman_lib.dir/io/Writer.cpp.obj	7dd9a435c03d3c9c
+14	1042	6883441006312472	test/CMakeFiles/travelling-salesman_test.dir/main.cpp.obj	795b1a475cd78db8
+5	686	6883442215248921	src/CMakeFiles/travelling-salesman_run.dir/io/Writer.cpp.obj	22eea00e6974a38
+10	707	6883442215448937	src/CMakeFiles/travelling-salesman_lib.dir/io/Writer.cpp.obj	5d0edf1347caf2e
+14	1900	6883442227422675	test/CMakeFiles/travelling-salesman_test.dir/main.cpp.obj	3a96f5ebcb99db32
+21	2654	6883442234945568	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	85d91668af7f471
+17	4579	6883442254134884	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	1df64e960229c1fa
+25	10822	6883442316476806	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	cbd7ff5cf2f89654
+15	1281	6883443405271971	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	888699fef1a322d0
